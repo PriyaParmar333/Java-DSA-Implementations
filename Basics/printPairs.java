@@ -24,3 +24,4 @@ public class printPairs
         prntpairs(numbers);
     }
 }
+
