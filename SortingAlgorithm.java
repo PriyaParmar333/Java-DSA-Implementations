@@ -35,6 +35,7 @@ public class SortingAlgorithm
             arr[turn]=temp;
         }
     }
+    //Print sorted array
     public static void PrintArray(int arr[])
     {
         for(int i=0;i<arr.length;i++)
@@ -50,5 +51,6 @@ public class SortingAlgorithm
         PrintArray(arr);
     }
 }
+
 
 
