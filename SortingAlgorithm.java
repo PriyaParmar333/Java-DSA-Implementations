@@ -1,5 +1,5 @@
 public class SortingAlgorithm
-{
+{    //Bubble Sort
     public static void BubbleSort(int arr[])
     {
         for(int turn=0;turn<arr.length;turn++)
@@ -16,6 +16,7 @@ public class SortingAlgorithm
             }
         }
     }
+    
     public static void SelectionSort(int arr[])
     {
         for(int turn=0;turn<arr.length;turn++)
@@ -49,3 +50,4 @@ public class SortingAlgorithm
         PrintArray(arr);
     }
 }
+
