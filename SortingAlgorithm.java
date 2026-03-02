@@ -16,7 +16,7 @@ public class SortingAlgorithm
             }
         }
     }
-    
+    //Selection Sort
     public static void SelectionSort(int arr[])
     {
         for(int turn=0;turn<arr.length;turn++)
@@ -50,4 +50,5 @@ public class SortingAlgorithm
         PrintArray(arr);
     }
 }
+
 
