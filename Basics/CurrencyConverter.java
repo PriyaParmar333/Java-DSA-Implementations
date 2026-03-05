@@ -14,3 +14,4 @@ public class CurrencyConverter {
         System.out.println("Amount in USD: " + usd);
     }
 }
+
