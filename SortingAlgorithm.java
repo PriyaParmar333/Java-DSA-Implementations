@@ -1,3 +1,4 @@
+//Sorting Algorithm
 public class SortingAlgorithm
 {    //Bubble Sort
     public static void BubbleSort(int arr[])
@@ -51,6 +52,7 @@ public class SortingAlgorithm
         PrintArray(arr);
     }
 }
+
 
 
 
