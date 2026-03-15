@@ -5,7 +5,7 @@ public class ArmstrongBetween {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter start number: ");
-        int start = sc.nextInt();
+        int start = sc.nextInt();//
 
         System.out.print("Enter end number: ");
         int end = sc.nextInt();
