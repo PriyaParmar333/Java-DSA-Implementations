@@ -2,7 +2,7 @@ import java.util.*;
 public class AreaOfSq
 
 {
-    public static void main(String args[])
+    public static void main(String args[])//main method
     {
        Scanner sc=new Scanner(System.in);
         //int x =sc.nextInt();
