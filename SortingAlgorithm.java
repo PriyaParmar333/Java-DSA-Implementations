@@ -1,6 +1,6 @@
 //Sorting Algorithm
 public class SortingAlgorithm
-{    //Bubble Sort
+{    //Bubble Sort 
     public static void BubbleSort(int arr[])
     {
         for(int turn=0;turn<arr.length;turn++)
