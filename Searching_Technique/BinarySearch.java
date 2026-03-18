@@ -36,7 +36,7 @@ public class BinarySearch
            System.out.println("not found");
        }
        else {
-           System.out.println("the number is found aat the index "+get);
+           System.out.println("The number is found aat the index "+get);
        }
     }
 }
