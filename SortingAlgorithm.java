@@ -7,7 +7,7 @@ public class SortingAlgorithm
         {
             for(int j=0;j<arr.length-1-turn;j++)
             {
-                if(arr[j]>arr[j+1])
+                if(arr[j]>arr[j+1]) 
                 {
                     //swapp
                     int temp=arr[j];
