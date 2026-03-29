@@ -1,8 +1,8 @@
 public class BuyAndSellStock
 {
-    public static int BuySellStock(int prices[])
+    public static int BuySellStock(int prices[])   
     {
-        int BuyPrices=Integer.MAX_VALUE;
+        int BuyPrices=Integer.MAX_VALUE;  
         int MaxProfit=0;
         for(int i=0;i<prices.length;i++)
         {
