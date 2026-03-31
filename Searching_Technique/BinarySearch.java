@@ -7,8 +7,8 @@ public class BinarySearch
         while(start<=end)
         {
             int mid=(start+end)/2;
-            if(key<numbers[mid])
-            {
+            if(key<numbers[mid]) 
+            { 
                 end=mid-1;
 
             }
