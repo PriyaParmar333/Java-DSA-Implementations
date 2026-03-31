@@ -4,13 +4,13 @@ public class BinarySearch
     {
         int start=0;
         int end=numbers.length-1;
-        while(start<=end)
+        while(start<=end) 
         {
             int mid=(start+end)/2;
             if(key<numbers[mid]) 
-            { 
+            {  
                 end=mid-1;
-
+ 
             }
             if(key>numbers[mid])
             {
